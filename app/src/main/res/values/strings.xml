@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BG Eraser</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_name_main">Background Eraser</string>
+    <string name="load">Load a photo</string>
+    <string name="done">Done</string>
+    <string name="crop_message">Click to crop</string>
+    <string name="title_activity_image_processing">ImageProcessing</string>
+    <string name="action_share">Share</string>
+    <string name="action_save">Save</string>
+    <string name="auto_bSize">Stroke Width</string>
+</resources>
